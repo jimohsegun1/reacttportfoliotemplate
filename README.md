@@ -1,3 +1,6 @@
+# figma Design: https://www.figma.com/community/file/1116246660507537002
+# Live Demo: https://react-portfolio-v1.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
